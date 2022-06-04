@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "979389776886",
+    "firebase_url": "https://doodel-a748b.firebaseio.com",
+    "project_id": "doodel-a748b",
+    "storage_bucket": "doodel-a748b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979389776886:android:2e04d87dd23568807b3dd7",
+        "android_client_info": {
+          "package_name": "se.doodel.doodelrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979389776886-gif3v6cf64niq2gjh2ki68nk6uhd8k0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl5V5Lxx77eW5Wc2O5hwhvAmSvhfTRuSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979389776886-gif3v6cf64niq2gjh2ki68nk6uhd8k0u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979389776886-3q13jcenag1do7shn1v681o1e93ss0c5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.doodel.doodelrider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979389776886:android:cdb1c351f06079cd7b3dd7",
+        "android_client_info": {
+          "package_name": "se.doodel.doodelshopper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979389776886-gif3v6cf64niq2gjh2ki68nk6uhd8k0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl5V5Lxx77eW5Wc2O5hwhvAmSvhfTRuSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979389776886-gif3v6cf64niq2gjh2ki68nk6uhd8k0u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979389776886-3q13jcenag1do7shn1v681o1e93ss0c5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.doodel.doodelrider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979389776886:android:edb2b669762315927b3dd7",
+        "android_client_info": {
+          "package_name": "se.doodel.doodeluser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979389776886-gif3v6cf64niq2gjh2ki68nk6uhd8k0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl5V5Lxx77eW5Wc2O5hwhvAmSvhfTRuSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979389776886-gif3v6cf64niq2gjh2ki68nk6uhd8k0u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979389776886-3q13jcenag1do7shn1v681o1e93ss0c5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.doodel.doodelrider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979389776886:android:91b6e8eb4156f3557b3dd7",
+        "android_client_info": {
+          "package_name": "se.doodel.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979389776886-gif3v6cf64niq2gjh2ki68nk6uhd8k0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl5V5Lxx77eW5Wc2O5hwhvAmSvhfTRuSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979389776886-gif3v6cf64niq2gjh2ki68nk6uhd8k0u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979389776886-3q13jcenag1do7shn1v681o1e93ss0c5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.doodel.doodelrider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
